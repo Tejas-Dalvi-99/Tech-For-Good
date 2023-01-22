@@ -8,9 +8,9 @@ This project aims to predict whether a loan application will be approved or not 
 The dataset used for this project contains information about the loan applicants such as their income, loan amount, and co-applicant income.
 
 ### Prerequisites:
-Python 3.0 
-Pandas 
-Numpy 
+Python 3.0 ,
+Pandas ,
+Numpy ,
 Anaconda
 
 ### Results:
