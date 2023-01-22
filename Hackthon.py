@@ -3,7 +3,7 @@ import pandas as pd
 import numpy as np
 
 # loading the data
-Bank = pd.read_csv(r"C:\Users\DELL\OneDrive\Desktop\TimePass\Hackathon\Data.csv")
+Bank = pd.read_csv(r"Data.csv")
 
 Bank.describe()
 
